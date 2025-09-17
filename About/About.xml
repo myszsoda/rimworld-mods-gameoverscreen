@@ -6,5 +6,7 @@
 	</supportedVersions>
 	<packageId>MyszSoda.GameOverScreen</packageId>
 	<url></url>
-	<description></description>
+	<description>If you enjoy high difficulty in Rimworld and do not save scum any bad event in the game, you have experienced Game Over by everyone dying or else. In vanilla, this sad ending just gives a pop-up asking you whether you want to end save or wait till someone new joins and revives your colony. This is unfitting ending to your colony story.
+
+This mod introduces gameover credits screen for colony perishing. This allows you to remember all colonists that didn't make it to the story end or rather their story has ended in disaster.</description>
 </ModMetaData>
