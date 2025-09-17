@@ -1,0 +1,8 @@
+<Defs>
+	<LetterDef ParentName="CustomChoiceLetterBase">
+		<defName>GameOverScreen</defName>
+		<letterClass>GameOverScreen.ChoiceLetter_GameOverScreen</letterClass>
+		<bounce>true</bounce>
+		<color>(235,235,235)</color>
+	</LetterDef>
+</Defs>
